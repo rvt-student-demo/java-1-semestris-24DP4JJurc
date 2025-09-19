@@ -25,4 +25,4 @@ public class averageof3numbers {
 
 
 
-    
+      
