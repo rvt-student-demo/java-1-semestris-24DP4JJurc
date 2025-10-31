@@ -3,7 +3,6 @@ import java.util.Scanner;
 
 public class exercise {
     public static void main(String[] args) {
-        // You can switch between ex1(), ex2(), ex3()
         ex3();
     }
 
